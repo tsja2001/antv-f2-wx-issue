@@ -1,1 +1,1 @@
-## 修改图表.jsx文件, 但不会自动编译. 需要手动执行 npm run beforeCompile才能编译成jsx
+## 修改图表.jsx文件, 但不会自动编译. 需要手动执行 npm run beforeCompile才能编译成js

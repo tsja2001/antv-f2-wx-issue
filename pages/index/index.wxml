@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view class="container">
+  <navigator url="/pages/antv/rect-base/index">基础柱状图</navigator>
+</view>

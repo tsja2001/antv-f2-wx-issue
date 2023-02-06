@@ -1,0 +1,6 @@
+<view class="container1">
+  <f2 onRender="{{onRenderChart}}" />
+  <f2 onRender="{{onRenderChart}}" />
+  <f2 onRender="{{onRenderChart}}" />
+  <f2 onRender="{{onRenderChart}}" />
+</view>

@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "f2": "@antv/f2-wx"
+  },
+  "pageOrientation":"landscape",
+  "navigationBarTitleText": "折线图"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "mini-program-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "beforeCompile": "babel pages --out-dir pages --only **/*.jsx"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@antv/f2": "^4.0.41",
+    "@antv/f2-my": "^4.0.41",
+    "@antv/f2-wx": "^4.0.41"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-react-jsx": "^7.20.13"
+  }
+}

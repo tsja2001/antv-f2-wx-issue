@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "f2": "@antv/f2-wx"
+  },
+  "navigationBarTitleText": "双柱状图"
+}

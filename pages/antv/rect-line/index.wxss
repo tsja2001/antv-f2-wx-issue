@@ -1,0 +1,10 @@
+/* required by usingComponents */
+page{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container1 {
+  width: 90%;
+  height: 90vh;
+}

@@ -1,0 +1,8 @@
+/* required by usingComponents */
+page{
+  padding: 0 20rpx;
+}
+.container1 {
+  width: 300rpx;
+  height: 300rpx;
+}
